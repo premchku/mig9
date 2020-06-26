@@ -3,7 +3,7 @@ Tue Jun 23 02:01:27 UTC 2020--><server>
     <httpEndpoint host="*" httpPort="9080" httpsPort="9443" id="defaultHttpEndpoint">
 </httpEndpoint>
     <featureManager>
-        <feature>jdbc-4.3</feature>
+        <feature>jdbc-4.2</feature>
         <feature>jndi-1.0</feature>
         <feature>jsp-2.3</feature>
         <feature>servlet-4.0</feature>
